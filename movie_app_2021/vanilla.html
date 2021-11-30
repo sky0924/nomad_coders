@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1> clicks: <span></span>0</span></h1>
+        <button id="btn">Click me</button>
+    </body>
+    <script>
+        let counter = 0
+        const button = document.getElementById('btn')
+        const span = document.querySelector('span')
+        function hanedleClick() {
+            counter += 1
+            span.innerText = counter
+        }
+        button.addEventListener('click', hanedleClick)
+    </script>
+</html>
