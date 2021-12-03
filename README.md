@@ -3,16 +3,15 @@
 - free  💸
 - low level  🛴
 - React Fundamentals (for beginners)
-- HTML, CSS, JavaScript
+- React, CSS, NodeJS
 
 ### React Hooks 10
 - free  💸
 - middle level  🚗
 - Learn by Building 10 React Hooks
-- HTML, CSS, ReactJS
 
-### Uber Eats
-- charged *420,000won*  💰
-- high level  🛩
-- Full Stack
-- ReactJS, GraphQL, Apollo, TypeScript, NestJS
+### React JS Master Class
+- charged *120,000won*  💰
+- middle level  🚗
+- cryptocurrency price tracker, trello clone, motion project
+- Typescript, Recoil, Framer Motion, Gatsby etc.
